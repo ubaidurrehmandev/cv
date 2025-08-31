@@ -7,3 +7,7 @@ Here is my professional CV
 - Noor 
 - Shoaib
 - Ali
+
+```
+npm run build
+```
